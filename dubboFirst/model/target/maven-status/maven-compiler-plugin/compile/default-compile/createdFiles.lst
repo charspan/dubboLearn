@@ -1,0 +1,4 @@
+com/charspan/dubbo/first/model/mapper/ItemInfoMapper.class
+com/charspan/dubbo/first/model/mapper/OrderRecordMapper.class
+com/charspan/dubbo/first/model/entity/ItemInfo.class
+com/charspan/dubbo/first/model/entity/OrderRecord.class

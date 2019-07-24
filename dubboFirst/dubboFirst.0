@@ -1,0 +1,8 @@
+[2019-07-24 15:45:07.355] - 2898 信息 [main] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2019-07-24 15:45:07.358] - 2898 信息 [main] --- org.apache.catalina.core.StandardEngine: Starting Servlet Engine: Apache Tomcat/8.5.34
+[2019-07-24 15:45:07.361] - 2898 信息 [localhost-startStop-1] --- org.apache.catalina.core.AprLifecycleListener: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhiliangpan/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[2019-07-24 15:45:07.538] - 2898 信息 [localhost-startStop-1] --- org.apache.jasper.servlet.TldScanner: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-24 15:45:07.542] - 2898 信息 [localhost-startStop-1] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/dubboFirst]: Initializing Spring embedded WebApplicationContext
+[2019-07-24 15:45:10.228] - 2898 警告 [main] --- org.apache.catalina.core.StandardContext: A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+[2019-07-24 15:45:10.233] - 2898 信息 [main] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2019-07-24 15:45:10.233] - 2898 信息 [main] --- org.apache.catalina.core.StandardEngine: Starting Servlet Engine: Apache Tomcat/8.5.34
